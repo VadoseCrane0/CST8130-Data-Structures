@@ -1,0 +1,17 @@
+b aaa aaa  9 30 2018  2.0 aaa
+b bbb bbb  9 30 2018  2.0 bbb
+b bcb bcb  9 30 2018  2.0 bcb
+d ccc ccc  10 13 2018  1.0 ccc
+m fff fff  10 17 2018  1.0  10 10 2018 
+b ggg ggg  10 24 2018  2.0 ggg
+d hhh hhh  10 13 2018  1.0 hhh
+m jjj jjj  10 17 2018  1.0  9 9 2018 
+b kkk kkk  10 29 2018  2.0 kkk
+d lll lll  10 18 2018  1.0 lll
+m mmm mmm  10 22 2018  1.0  2 2 2018 
+b nnn nnn  10 29 2018  2.0 nnn
+d ppp ppp  10 18 2018  1.0 ppp
+b qqq qqq  10 29 2018  2.0 qqq
+d rrr rrr  10 18 2018  1.0 rrr
+m sss sss  10 22 2018  1.0  5 5 2018 
+b ttt ttt  10 29 2018  2.0 ttt
